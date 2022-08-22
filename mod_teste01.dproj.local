@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/08/21 22:46:29.045,=C:\Projetos\Delphi\DataSnap_exemplo_01\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/08/21 22:46:29.463,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\base64.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.471,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.480,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\json2.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.487,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\callbackframework.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.494,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\serverfunctions.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.500,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\base64-min.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.505,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\json2-min.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.511,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2022/08/21 22:46:29.517,=C:\Projetos\Delphi\DataSnap_exemplo_01\js\callbackframework-min.js</Transaction>
+    <Transaction>2022/08/21 22:49:57.189,C:\Projetos\Delphi\DataSnap_exemplo_01\wbContainer.pas=C:\Projetos\Delphi\DataSnap_exemplo_01\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/08/21 22:49:57.190,C:\Projetos\Delphi\DataSnap_exemplo_01\wbContainer.dfm=C:\Projetos\Delphi\DataSnap_exemplo_01\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2022/08/21 22:56:38.839,C:\Projetos\Delphi\DataSnap_exemplo_01\src\wbContainer.pas=C:\Projetos\Delphi\DataSnap_exemplo_01\wbContainer.pas</Transaction>
+    <Transaction>2022/08/21 22:56:38.839,C:\Projetos\Delphi\DataSnap_exemplo_01\src\wbContainer.dfm=C:\Projetos\Delphi\DataSnap_exemplo_01\wbContainer.dfm</Transaction>
+    <Transaction>2022/08/22 00:36:27.157,=C:\Projetos\Delphi\DataSnap_exemplo_01\Unit1.pas</Transaction>
+    <Transaction>2022/08/22 00:37:11.753,C:\Projetos\Delphi\DataSnap_exemplo_01\src\uDMConexao.pas=C:\Projetos\Delphi\DataSnap_exemplo_01\Unit1.pas</Transaction>
+    <Transaction>2022/08/22 00:37:11.753,C:\Projetos\Delphi\DataSnap_exemplo_01\src\uDMConexao.dfm=C:\Projetos\Delphi\DataSnap_exemplo_01\Unit1.dfm</Transaction>
+    <Transaction>2022/08/22 11:39:37.851,=C:\Projetos\Delphi\DataSnap_exemplo_01\src\Classes.Factory.pas</Transaction>
+    <Transaction>2022/08/22 11:39:37.884,=C:\Projetos\Delphi\DataSnap_exemplo_01\src\Classes.Generic.pas</Transaction>
+    <Transaction>2022/08/22 11:39:37.920,=C:\Projetos\Delphi\DataSnap_exemplo_01\src\Helpers.JSONObject.pas</Transaction>
+    <Transaction>2022/08/22 11:39:37.957,=C:\Projetos\Delphi\DataSnap_exemplo_01\src\Helpers.JSONValue.pas</Transaction>
+    <Transaction>2022/08/22 11:39:37.993,=C:\Projetos\Delphi\DataSnap_exemplo_01\src\Helpers.Str.pas</Transaction>
+    <Transaction>2022/08/22 11:40:59.168,=C:\Projetos\Delphi\DataSnap_exemplo_01\src\Helpers.Integer.pas</Transaction>
+  </Transactions>
+</BorlandProject>
